@@ -1,0 +1,38 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+*.vcproj.user
+*.pdb
+*.idb
+*.ipch
+
+# Eclipse files
+.settings
+.cproject
+.project
